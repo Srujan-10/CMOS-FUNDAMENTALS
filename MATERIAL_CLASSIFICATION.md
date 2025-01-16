@@ -1,6 +1,6 @@
 # Material Classification Based on Energy Gap and Semiconductor Types
 
-This repository demonstrates material classification based on energy gaps and includes an explanation of **n-type** and **p-type** semiconductors. The project uses Python for classification and visualization.
+This repository demonstrates material classification based on energy gaps and includes an explanation of **n-type** and **p-type** semiconductors.
 
 ## Theory
 
