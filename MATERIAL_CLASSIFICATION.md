@@ -8,16 +8,22 @@ Materials are classified based on conductivity.
 
 ### Conductivity 
 - It is a property to calculaet how much a material can withstand electricity.
-- It can also be defined as a measurement of how easily a material allows electrons current to flow through it. 
+- It can also be defined as a measurement of how easily a material allows electrons current to flow through it.
+  
+| **Material**      | **Conductivity(S/cm)**             | **Type**              |
+|-------------------|------------------------------------|-----------------------|
+| Conductor         | ≈ 10<sup>3</sup>                   | High conductivity     |
+| Semiconductor     | 10<sup>3</sup> - 10<sup>-4</sup>   | Moderate conductivity |
+| Insulator         | 10<sup>-4</sup> -10<sup>-18</sup>  | Low conductivity      |
 
 ### Energy Gap Classification
 The energy gap (bandgap) of a material determines whether it is a conductor, semiconductor, or insulator:
 
 | **Material**      | **Energy Gap (eV)** | **Type**              |
-|--------------------|---------------------|-----------------------|
-| Conductor         | ≈ 0                | High conductivity      |
-| Semiconductor     | 0.5 - 3            | Moderate conductivity  |
-| Insulator         | > 3                | Low conductivity       |
+|-------------------|---------------------|-----------------------|
+| Conductor         | ≈ 0                 | High conductivity     |
+| Semiconductor     | 0.5 - 3             | Moderate conductivity |
+| Insulator         | > 3                 | Low conductivity      |
 
 ### n-Type Semiconductor
 - Doped with donor impurities (e.g., phosphorus in silicon).
