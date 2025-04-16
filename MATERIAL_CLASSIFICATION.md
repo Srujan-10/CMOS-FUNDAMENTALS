@@ -6,7 +6,7 @@ This repository demonstrates material classification based on energy gaps and in
 
 Materials are classified based on conductivity.
 
-## Conductivity 
+### Conductivity 
 - It is a property to calculaet how much a material can withstand electricity.
 - It can also be defined as a measurement of how easily a material allows electrons current to flow through it. 
 
