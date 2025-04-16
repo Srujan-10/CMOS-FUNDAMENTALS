@@ -4,6 +4,12 @@ This repository demonstrates material classification based on energy gaps and in
 
 ## Theory
 
+Materials are classified based on conductivity.
+
+# Conductivity 
+- It is a property to calculaet how much a material can withstand electricity.
+- It can also be defined as a measurement of how easily a material allows electrons current to flow through it. 
+
 ### Energy Gap Classification
 The energy gap (bandgap) of a material determines whether it is a conductor, semiconductor, or insulator:
 
@@ -22,6 +28,8 @@ The energy gap (bandgap) of a material determines whether it is a conductor, sem
 - Doped with acceptor impurities (e.g., boron in silicon).
 - Creates holes by accepting electrons, increasing hole concentration.
 - Holes are the majority carriers; electrons are the minority carriers.
+
+###  
 
 
 
