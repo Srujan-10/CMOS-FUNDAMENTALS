@@ -35,7 +35,11 @@ The energy gap (bandgap) of a material determines whether it is a conductor, sem
 - Creates holes by accepting electrons, increasing hole concentration.
 - Holes are the majority carriers; electrons are the minority carriers.
 
-###  
+VLSI -Very Large Scale Integration
+Here one chip consists of 10<sup>6</sup> transistors in one die [Subtrate].
+In chip we use metal for routing interconnects.
+The material we use for routing is mostly alluminium and copper.
+
 
 
 
